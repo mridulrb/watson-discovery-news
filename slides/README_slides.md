@@ -45,34 +45,36 @@ jupyter:
 
 
 **Details** <br />
+In this workshop you will be introduced to OpenShift Deployment and IBM Watson Discovery.
 
 🎓 What will you learn? <br />
-How to combine the power of a Jupyter Notebook, Cognos Dashboard Embedded, and IBM Watson™ natural language processing to glean useful marketing insight from a vast body of unstructured Facebook data.
+- What are the basic concepts used by OpenShift and IBM Watson Discovery.
+- How to create and run the watson-discovery-news application in a container running on Red Hat OpenShift.
 
 👩‍💻 Who should attend? <br />
-Developers and those who want to learn about using Facebook Analytics data enriched with data from Watson APIs to answer questions such as:
+Developers and those interested in OpenShift, and IBM Watson Discovery.
 
-- What sentiment is most prevalent in the posts with the highest engagement performance?
-- What emotion has a higher engagement score on average?
-- What are the most common keywords, entities, and objects in your posts?
+👩‍🏫 Prerequisites <br />
+Read: http://ibm.biz/DiscoveryOpenShift 
+
 
 +++ {"slideshow": {"slide_type": "subslide"}}
 
 🎙️ Speakers
-- Fawaz Siddiqi, IBM Developer Advocate
-(https://www.linkedin.com/in/fawazsiddiqi/)
-- Mridul Bhandari, IBM Developer Advocate
+- Karim Deif, IBM Client Developer Advocate, Egypt
+(https://developer.ibm.com/profiles/karim.deif/)
+- Mridul Bhandari, IBM Cloud Developer Advocate, U.A.E
 (https://www.linkedin.com/in/mridul-bhandari/)
 
 🎈 Prerequisites <br />
-1) Sign up to IBM Cloud using this link: https://ibm.biz/FaceBookInsights <br />
-2) Register for the live event or watch the recording: https://www.crowdcast.io/e/facebook-insights
+1) Sign up to IBM Cloud using this link: https://ibm.biz/DiscoveryonOpenShift <br />
+2) Register for the live event or watch the recording: 
 
 👩‍💻Resources
-- Event Recording - https://www.crowdcast.io/e/facebook-insights
-- IBM Cloud Sign-up - https://ibm.biz/FaceBookInsights
-- GitHub Repository - https://ibm.biz/FB_HandsOn
-- Survey - http://ibm.biz/FBInsightsSurvey
+- Event Recording - 
+- IBM Cloud Sign-up - https://ibm.biz/DiscoveryonOpenShift
+- GitHub Repository - https://ibm.biz/DiscoveryOpenShift
+- Survey - 
 - Meetup page: https://www.meetup.com/IBM-Cloud-MEA/events/ 
 - Digital Developer Conference: Data & AI - https://ibm.biz/devcon-ai-meetup
 
@@ -180,6 +182,42 @@ Developers and those who want to learn about using Facebook Analytics data enric
 +++ {"slideshow": {"slide_type": "slide"}}
 
 ![center](https://github.com/mridulrb/FacebookInsights/blob/master/images/slide_images/Slide26.jpeg?raw=true)
+
++++ {"slideshow": {"slide_type": "slide"}}
+
+![center](https://github.com/mridulrb/FacebookInsights/blob/master/images/slide_images/Slide27.jpeg?raw=true)
+
++++ {"slideshow": {"slide_type": "slide"}}
+
+![center](https://github.com/mridulrb/FacebookInsights/blob/master/images/slide_images/Slide28.jpeg?raw=true)
+
++++ {"slideshow": {"slide_type": "slide"}}
+
+![center](https://github.com/mridulrb/FacebookInsights/blob/master/images/slide_images/Slide29.jpeg?raw=true)
+
++++ {"slideshow": {"slide_type": "slide"}}
+
+![center](https://github.com/mridulrb/FacebookInsights/blob/master/images/slide_images/Slide30.jpeg?raw=true)
+
++++ {"slideshow": {"slide_type": "slide"}}
+
+![center](https://github.com/mridulrb/FacebookInsights/blob/master/images/slide_images/Slide31.jpeg?raw=true)
+
++++ {"slideshow": {"slide_type": "slide"}}
+
+![center](https://github.com/mridulrb/FacebookInsights/blob/master/images/slide_images/Slide32.jpeg?raw=true)
+
++++ {"slideshow": {"slide_type": "slide"}}
+
+![center](https://github.com/mridulrb/FacebookInsights/blob/master/images/slide_images/Slide33.jpeg?raw=true)
+
++++ {"slideshow": {"slide_type": "slide"}}
+
+![center](https://github.com/mridulrb/FacebookInsights/blob/master/images/slide_images/Slide34.jpeg?raw=true)
+
++++ {"slideshow": {"slide_type": "slide"}}
+
+![center](https://github.com/mridulrb/FacebookInsights/blob/master/images/slide_images/Slide35.jpeg?raw=true)
 
 +++ {"slideshow": {"slide_type": "slide"}}
 

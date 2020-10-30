@@ -57,12 +57,11 @@ Developers and those interested in OpenShift, and IBM Watson Discovery.
 👩‍🏫 Prerequisites <br />
 Read: http://ibm.biz/DiscoveryOpenShift 
 
-
 +++ {"slideshow": {"slide_type": "subslide"}}
 
 🎙️ Speakers
 - Karim Deif, IBM Client Developer Advocate, Egypt
-(https://developer.ibm.com/profiles/karim.deif/)
+(hhttps://www.linkedin.com/in/karimdeif/)
 - Mridul Bhandari, IBM Cloud Developer Advocate, U.A.E
 (https://www.linkedin.com/in/mridul-bhandari/)
 
@@ -75,7 +74,6 @@ Read: http://ibm.biz/DiscoveryOpenShift 
 - Survey - 
 - Meetup page: https://www.meetup.com/IBM-Cloud-MEA/events/ 
 - Digital Developer Conference: Data & AI - https://ibm.biz/devcon-ai-meetup
-
 
 +++ {"slideshow": {"slide_type": "slide"}}
 

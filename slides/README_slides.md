@@ -70,9 +70,7 @@ Read: http://ibm.biz/DiscoveryOpenShift 
 1) Sign up to IBM Cloud using this link: https://ibm.biz/DiscoveryonOpenShift <br />
 2) Register for the live event or watch the recording: 
 
-👩‍💻Resources
-- Event Recording - 
-- IBM Cloud Sign-up - https://ibm.biz/DiscoveryonOpenShift
+👩‍💻Resources 
 - GitHub Repository - https://ibm.biz/DiscoveryOpenShift
 - Survey - 
 - Meetup page: https://www.meetup.com/IBM-Cloud-MEA/events/ 

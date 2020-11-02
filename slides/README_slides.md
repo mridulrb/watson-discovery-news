@@ -61,7 +61,7 @@ Read: http://ibm.biz/DiscoveryOpenShift 
 
 🎙️ Speakers
 - Karim Deif, IBM Client Developer Advocate, Egypt
-(hhttps://www.linkedin.com/in/karimdeif/)
+(https://www.linkedin.com/in/karimdeif/)
 - Mridul Bhandari, IBM Cloud Developer Advocate, U.A.E
 (https://www.linkedin.com/in/mridul-bhandari/)
 

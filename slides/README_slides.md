@@ -71,6 +71,7 @@ Read: http://ibm.biz/DiscoveryOpenShift 
 
 👩‍💻Resources 
 - GitHub Repository - https://ibm.biz/DiscoveryOpenShift
+- Workshop Slides - http://ibm.biz/WDS_Resources
 - Survey - 
 - Meetup page: https://www.meetup.com/IBM-Cloud-MEA/events/ 
 - Digital Developer Conference: Data & AI - https://ibm.biz/devcon-ai-meetup

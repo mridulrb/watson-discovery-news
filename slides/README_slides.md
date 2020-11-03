@@ -67,7 +67,7 @@ Read: http://ibm.biz/DiscoveryOpenShift 
 
 🎈 Prerequisites <br />
 1) Sign up to IBM Cloud using this link: https://ibm.biz/DiscoveryonOpenShift <br />
-2) Register for the live event or watch the recording: https://www.crowdcast.io/e/facebook-insights
+2) Register for the live event or watch the recording: https://www.crowdcast.io/e/build-a-watson-discovery
 
 👩‍💻Resources 
 - GitHub Repository - https://ibm.biz/DiscoveryOpenShift

@@ -73,8 +73,9 @@ Read: http://ibm.biz/DiscoveryOpenShift 
 - GitHub Repository - https://ibm.biz/DiscoveryOpenShift
 - Workshop Slides - https://ibm.biz/WDS_Resources
 - Survey - https://ibm.biz/WDS_Survey
-- Meetup page: https://www.meetup.com/IBM-Cloud-MEA/events/ 
+- Meetup page - https://www.meetup.com/IBM-Cloud-MEA/events/ 
 - Digital Developer Conference: Data & AI - https://ibm.biz/devcon-ai-meetup
+- OpenShift Cluster - https://watsondiscos.mybluemix.net/ | Key - oslab
 
 +++ {"slideshow": {"slide_type": "slide"}}
 
